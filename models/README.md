@@ -28,6 +28,7 @@ python dense121_pred.py
 python newvgg.py
 ```
 # AlexNet
+-----Edit----------
 ```python
 python alex_net.py
 ```
