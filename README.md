@@ -1,11 +1,12 @@
 # IDC-Classification
-CS 542 final project.
-
-Group Name: IDC 
-
-Group Member:  
-
-Zeyu Fu zeyufu@bu.edu; Yuanrong Liu yliu6680@bu.edu; Yu Liu liuyu1@bu.edu
+CS 542 final project.   
+   
+* Group Name: IDC   
+   
+* Group Member:  
+  + ```Zeyu Fu``` zeyufu@bu.edu; 
+  + ```Yuanrong Liu``` yliu6680@bu.edu; 
+  + ```Yu Liu``` liuyu1@bu.edu
 
 # Set-up
 Under the setup folder, we have specified the environment we employed to compile our models
