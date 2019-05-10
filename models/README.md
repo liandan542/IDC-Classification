@@ -1,7 +1,7 @@
 # Models
 CNN models.
 To run the python files. put balancedData_shuffled, ```*.py```, ```and *_weights.h5``` under the same directory.
-The result of training, validation and testing are images names ```accuracy.png``` and ````loss.png```.
+The result of training, validation and testing are images names ```accuracy.png``` and ```loss.png```.
 
 # DenseNet
 1. Compile dense121_train.py.py 
