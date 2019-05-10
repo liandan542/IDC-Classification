@@ -1,5 +1,5 @@
 # IDC-Classification
-CS 542 final project.   
+**CS 542 final project.**   
    
 * Group Name: IDC   
    
