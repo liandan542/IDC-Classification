@@ -1,1 +1,3 @@
-vgg16 model very failed version
+Many attempts to construct a VGG model.
+
+newvgg.py is the final model.
