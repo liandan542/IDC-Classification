@@ -34,4 +34,5 @@ python newvgg.py
 python alex_net.py
 ```
   could generate a model, and the command.
+  
   The output weights is in this file: ```alexnet_model.h5```. It is a whole model for the training data, conatins optimized weights and model configuration. If you want to use it, import the ```load_model function``` from ```keras.model```.
