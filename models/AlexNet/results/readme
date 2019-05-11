@@ -1,2 +1,0 @@
-
-The final weights and model configuration, use the ```load_model``` in ```keras.model```
