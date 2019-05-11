@@ -3,8 +3,8 @@
    
 The task of this project is to detect ```Invasive Ductal Carcinoma```(IDC) in slide images of Breast Cancer. The final product is a binary classifier telling whether an image patch is IDC positive or IDC negative.   
    
-* Group Name: IDC   
-   
+* Group Name: ```IDC```   
+
 * Group Member:  
   + ```Zeyu Fu``` zeyufu@bu.edu; 
   + ```Yuanrong Liu``` yliu6680@bu.edu; 
