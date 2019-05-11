@@ -1,2 +1,2 @@
 
-The scripts 'alexnet_0425.py' and 'modified_small_alexnet_0425.py' are needed to be runned in other environments.
+The results directory contains the final weights and model. The model directory contains the script.
