@@ -28,7 +28,10 @@ python dense121_pred.py
 python newvgg.py
 ```
 # AlexNet
------Edit----------
+  The dataset is at ```./balancedData_shuffled```.
+  The command:
 ```python
 python alex_net.py
 ```
+  could generate a model, and the command.
+  The output weights and the model is: ```alexnet_model.h5```, it is a whole model for the training data, conatins optimized weights and model configuration. If you want to use it, import the ```load_model function``` from ```keras.model```.
