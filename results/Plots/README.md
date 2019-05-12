@@ -1,6 +1,30 @@
 # Results Plot of Trained Models
 Accuracy and loss plot of different models.
-   
+
+## Alexnet
+* ***First attempt***  
+  ```Optimizer```: RMSprop
+  ```Batch Size``` : 128   
+  ```epoch```: 200
+  ```lr``` : 1e-6
+* ***Second attempt***  
+  ```Optimizer```: RMSprop
+  ```Batch Size``` : 128   
+  ```lr``` : 1e-5
+* ***3rd attempt***   
+  ```Optimizer```: Adam
+  ```Batch Size``` : 128   
+  ```lr``` : 1e-6
+* ***4th attempt***   
+  ```Optimizer```: Adam
+  ```Batch Size``` : 128   
+  ```lr``` : 1e-5
+* ***5th attempt***   
+  ```Optimizer```: Adam
+  ```Batch Size``` : 128   
+  ```lr``` : 1e-6
+  ```no normalization layers```
+  
 ## DenseNet121
 * ***First attempt***   
   ```Batch Size``` : 32   
@@ -59,3 +83,4 @@ Accuracy and loss plot of different models.
   ```lr``` : 5   
   ```validation_split``` : 0.2   
   ```test_acc``` :   0.85
+ 
