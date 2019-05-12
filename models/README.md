@@ -1,12 +1,15 @@
 # Models
 CNN models.
-To run the python files. put balancedData_shuffled, ```*.py```, ```and *_weights.h5``` under the same directory.
+To run the python files, put ```balancedData_shuffled```, ```*.py```, ```and *_weights.h5``` under the same directory. To submit a training script ```*.py``` and train with GPUs, run the following command where ```train.sh``` will load the environment and execute the training script:
+```
+$ qsub -l gpus=1 -l gpu_c=3.5 train.sh
+```
 The result of training, validation and testing are images names ```accuracy.png``` and ```loss.png```.
    
 ## DenseNet
 * Compile dense121_train.py
-```python
-python dense121_train.py
+```
+./dense121_train.py
 ```
   read images at ```'/projectnb/cs542sp/idc_classification/data/'```   
   process the Dataset and shuffle it, name as ```"balancedData_shuffled"``` then store it at ```'./balancedData_shuffled'```   
