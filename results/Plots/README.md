@@ -24,6 +24,14 @@ Accuracy and loss plot of different models.
   ```Batch Size``` : 128   
   ```lr``` : 1e-6
   ```no normalization layers```
+* ***6th attempt***   
+  ```Optimizer```: Adadelta
+  ```Batch Size``` : 128   
+  ```lr``` : 1e-3
+* ***7th attempt***   
+  ```Optimizer```: Adadelta
+  ```Batch Size``` : 128   
+  ```lr``` : 1e-2
   
 ## DenseNet121
 * ***First attempt***   
