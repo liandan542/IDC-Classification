@@ -32,7 +32,7 @@ Accuracy and loss plot of different models.
   ```dense block``` : 2 (original 4)   
   ```validation_split``` : 0.3   
   ```test_acc``` : 83.92%    
-* ***6th attempt***   
+* ***7th attempt***   
   ```Data``` : Full load   
   ```Batch Size``` : 256   
   ```lr``` : 2e-5   
