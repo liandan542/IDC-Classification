@@ -3,7 +3,7 @@ CNN models.
 To run the python files. put balancedData_shuffled, ```*.py```, ```and *_weights.h5``` under the same directory.
 The result of training, validation and testing are images names ```accuracy.png``` and ```loss.png```.
 
-# DenseNet
+## DenseNet
 1. Compile dense121_train.py.py 
 ```python
 python dense121_train.py.py 
@@ -20,14 +20,14 @@ python dense121_pred.py
   
   return the predicted result.
 
-# VGG
+## VGG
   The file newvgg.py is our final model.
   1. read dataset at ```./balancedData_shuffled```
   2. output weights of the model: ```newvgg_weights.h5```
 ```python
 python newvgg.py
 ```
-# AlexNet
+## AlexNet
   The dataset is at ```./balancedData_shuffled```.
   The command:
 ```python
