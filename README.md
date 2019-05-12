@@ -10,13 +10,13 @@ The task of this project is to detect ```Invasive Ductal Carcinoma```(IDC) in sl
 
 ## Directories in this Repo 
 
-### Setups
+### [Setups](https://github.com/liandan542/IDC-Classification/tree/master/setups)
 The configuration files are located in this directory, including the environment installation, the GPU configurations etc,.
 
-### Models
+### [Models](https://github.com/liandan542/IDC-Classification/tree/master/models)
 The Python scripts and Jupyter Notebook of our training and prediction are included in this directory. We use three models, ```AlexNet```, ```DenseNet``` and ```VGG```.
 
-### Results
+### [Results](https://github.com/liandan542/IDC-Classification/tree/master/results)
 Under this directory, we have the records of accuracy and loss of every model we trained. The best results are shown on our presentation slides and final report.
 
 ## Dataset
