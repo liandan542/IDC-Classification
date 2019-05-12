@@ -17,7 +17,7 @@ To close the environment, run:
 ```
 $ source deactivate
 ```
-To submit a **Python** training script ```train.py``` and train with GPUs, run:
+To submit a **Python** training script ```train.py``` and train with GPUs, run the following command where ```train.sh``` will load the environment and execute the training script:
 ```
 $ qsub -l gpus=1 -l gpu_c=3.5 train.sh
 ```
