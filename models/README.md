@@ -1,6 +1,6 @@
 # Models
 CNN models.
-To run the python files, put ```balancedData_shuffled```, ```*.py```, ```and *_weights.h5``` under the same directory. To submit a training script ```*.py``` and train with GPUs, run the following command where ```train.sh``` will load the environment and execute the training script:
+To run the python files, put ```balancedData_shuffled```, ```*.py```, ```and *_weights.h5``` under the same directory. For full load training data, submiting a training script ```*.py``` and train with GPUs by running the following command where ```train.sh``` will load the environment and execute the training script:
 ```
 $ qsub -l gpus=1 -l gpu_c=3.5 train.sh
 ```
