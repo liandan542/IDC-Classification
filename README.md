@@ -1,7 +1,5 @@
 # IDC-Classification
-**CS 542 final project.**    
-   
-The task of this project is to detect ```Invasive Ductal Carcinoma```(IDC) in slide images of Breast Cancer. The final product is a binary classifier telling whether an image patch is IDC positive or IDC negative.   
+The task of this project is to detect ```Invasive Ductal Carcinoma```(IDC) in slide images of Breast Cancer. The final product is a binary classifier telling whether an image patch is IDC positive or IDC negative. Our working directory on ```BU SCC``` is  ***/projectnb/cs542sp/idc_classification***.
    
 * Group Name: ```IDC```   
 
